@@ -8,12 +8,12 @@ pipeline{
     }
     stage('Build'){
         steps{
-            sh 'echo "Building the project..."'
+            bat 'echo "Building the project..."'
         }
     }
     stage('Test'){
         steps{
-            sh 'python3 -m unittest discover -s ./ -p "test_*.py"'
+            bat 'python3 -m unittest discover -s ./ -p "test_*.py"'
         }
     }
     
