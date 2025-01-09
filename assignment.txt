@@ -1,0 +1,12 @@
+How CI can improve the software development process:
+
+Continuous Integration (CI) is a software development practice that emphasizes frequently integrating code changes into a 
+shared repository, where automated builds and tests are executed to verify the integration’s correctness. As organizations 
+strive for efficiency and high-quality software delivery, CI has become a pivotal component in modern software development workflows. 
+Reflecting on its impact, it’s clear that CI offers multiple improvements across the development lifecycle, from enhancing collaboration 
+to ensuring higher software quality.
+
+1.Early Detection of Bugs and Issues
+2.Improved Code Quality
+3.Faster Feedback Loops
+4.Enhanced Deployment Pipeline
